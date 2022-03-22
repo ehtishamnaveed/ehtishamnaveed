@@ -1,7 +1,7 @@
 ## About
-- 👋 Hi, I’m ```diff +Ehtisham Naveed```
-- 👀 I’m interested in ``` IT, Programming, Graphic Desinging ```
-- 🌱 I’m currently learning : Programmming ``` C++ ```
+- 👋 Hi, I’m `Ehtisham Naveed`
+- 👀 I’m interested in ` IT, Programming, Graphic Desinging `
+- 🌱 I’m currently learning : Programmming ` C++ `
 
 ## 📫 How to reach me 
 - Email: ehteshamnaveed199@gmail.com
