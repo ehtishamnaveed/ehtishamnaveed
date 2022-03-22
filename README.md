@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ehteshamnaveed
 - 👀 I’m interested in < IT, Programming, Graphic Desinging >
 - 🌱 I’m currently learning < Programmming(c++) >
-- 
+
 ## 📫 How to reach me 
 - Email: < ehteshamnaveed199@gmail.com > 
 - Linkdin: < https://www.linkedin.com/in/ehtesham-naveed-65b765201/ >
