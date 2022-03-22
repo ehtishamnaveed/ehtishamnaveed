@@ -1,5 +1,5 @@
 ## About
-- 👋 Hi, I’m @ehteshamnaveed
+- 👋 Hi, I’m @ehtishamnaveed
 - 👀 I’m interested in < IT, Programming, Graphic Desinging >
 - 🌱 I’m currently learning < Programmming(c++) >
 
