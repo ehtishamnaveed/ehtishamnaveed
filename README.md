@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning < Programmming(c++) >
 
 ## 📫 How to reach me 
-- Email: < ehteshamnaveed199@gmail.com > 
-- Linkdin: < https://www.linkedin.com/in/ehtesham-naveed-65b765201/ >
+- Email: [Gmail](ehteshamnaveed199@gmail.com) 
+- Linkdin: [Linkdin Profile](https://www.linkedin.com/in/ehtesham-naveed-65b765201/) 
 
 <!---
 ehteshamnaveed/ehteshamnaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
