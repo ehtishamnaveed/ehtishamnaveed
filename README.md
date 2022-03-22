@@ -1,7 +1,7 @@
 ## About
 - 👋 Hi, I’m @ehtishamnaveed
 - 👀 I’m interested in < IT, Programming, Graphic Desinging >
-- 🌱 I’m currently learning < Programmming(c++) >
+- 🌱 I’m currently learning < Programmming'(c++)' >
 
 ## 📫 How to reach me 
 - Email: ehteshamnaveed199@gmail.com
