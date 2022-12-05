@@ -1,7 +1,7 @@
 ## About
 - 👋 Hi, I’m `Ehtisham Naveed`
 - 👀 I’m interested in ` IT, Programming, Graphic Desinging `
-- 🌱 I’m currently learning : Programmming ` C++ `
+- 🌱 I’m currently learning : Programmming ` C++ ` ` Java `
 
 ## 📫 How to reach me 
 - Email: ehteshamnaveed199@gmail.com
