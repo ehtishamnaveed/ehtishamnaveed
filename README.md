@@ -6,7 +6,7 @@
 - • My writings are available on Instagram: https://www.instagram.com/conavalent
 - • My Projects are available on Github: https://github.com/ehtishamnaveed
 
->.. Feel free to contact me at ehteshamnaveed199@gmail.com ..<
+> Feel free to contact me at ehteshamnaveed199@gmail.com
 ## 📫 How to reach me 
 - Email: ehteshamnaveed199@gmail.com
 - [Linkedin Profile](https://www.linkedin.com/in/ehtesham-naveed-65b765201/) 
