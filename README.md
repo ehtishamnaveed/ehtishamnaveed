@@ -8,7 +8,7 @@
 
 ## 📫 How to reach me 
 - > Feel free to contact me at ehteshamnaveed199@gmail.com
-- > My Linkedin Profile: [Linkedin Profile](www.linkedin.com/in/ehtishamnaveed) 
+- > My Linkedin Profile: www.linkedin.com/in/ehtishamnaveed 
 
 <!---
 ehteshamnaveed/ehteshamnaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
