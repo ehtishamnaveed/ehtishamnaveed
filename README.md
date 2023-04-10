@@ -2,7 +2,7 @@
 -  Greetings, I'm Ehtesham Naveed
 -  Degree: Bachelor of Information Technology (in progress)
 -  I am interested in IT, Programming, Graphic Designing, Poems, and Quotes
--  I have experience with C++ and Java 
+-  I have experience with C++, Java and Python
 -  My writings are available on Instagram: https://www.instagram.com/conavalent
 -  My Projects are available on Github: https://github.com/ehtishamnaveed
 
