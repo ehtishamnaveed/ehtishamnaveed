@@ -4,7 +4,6 @@
 -  I am interested in IT, Programming, Graphic Designing, Poems, and Quotes
 -  I have experience with C++, Java and Python
 -  My writings are available on Instagram: https://www.instagram.com/conavalent
--  My Projects are available on Github: https://github.com/ehtishamnaveed
 
 ## 📫 How to reach me 
 - > Feel free to contact me at ehteshamnaveed199@gmail.com
