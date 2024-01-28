@@ -1,5 +1,5 @@
 ## Brief Introduction
--  Greetings, I'm Ehtesham Naveed
+-  Greetings, I'm Ehtisham Naveed
 -  Degree: Bachelor of Information Technology (in progress)
 -  I am interested in IT, Programming, Graphic Designing, Poems, and Quotes
 -  I have intermediate experience with C++, Java and Python
