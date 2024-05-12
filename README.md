@@ -11,7 +11,6 @@
 
 • Proudly showcasing my work:
  • Writings on Instagram: https://www.instagram.com/conavalent
- • Projects on GitHub: https://github.com/ehtishamnaveed
 
 • Eager to connect with like-minded individuals and collaborate on exciting projects.
 
