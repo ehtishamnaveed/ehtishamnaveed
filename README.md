@@ -9,7 +9,7 @@
 
 • Tech-savvy with a flair for creativity, I love exploring the synergy between technology and arts.
 
-• Proudly showcasing my work:
+• Proudly showcasing my work;
 • Writings on Instagram: https://www.instagram.com/conavalent
 
 • Eager to connect with like-minded individuals and collaborate on exciting projects.
