@@ -1,15 +1,18 @@
 ## Brief Introduction
--  Greetings, I'm Ehtisham Naveed
--  Degree: Bachelor of Information Technology (in progress)
--  I am interested in IT, Programming, Graphic Designing, Poems, and Quotes
--  I have intermediate experience with C++, Java and Python
--  My writings are available on Instagram: https://www.instagram.com/conavalent
+• Greetings, I'm Ehtesham Naveed, a recent Information Technology graduate and enthusiastic programmer.
 
-## 📫 How to reach me 
-- > Feel free to contact me at ehteshamnaveed199@gmail.com
-- > My Linkedin Profile: www.linkedin.com/in/ehtishamnaveed 
+• Holding a Bachelor's degree in Information Technology, I’m passionate about IT and coding.
 
-<!---
-ehteshamnaveed/ehteshamnaveed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• Strong experience in programming languages: C++, Java, and intermediate Python.
+
+• Complementing my tech skills, I enjoy creative pursuits like graphic designing, writing poems, and curating quotes.
+
+• Tech-savvy with a flair for creativity, I love exploring the synergy between technology and arts.
+
+• Proudly showcasing my work:
+ • Writings on Instagram: https://www.instagram.com/conavalent
+ • Projects on GitHub: https://github.com/ehtishamnaveed
+
+• Eager to connect with like-minded individuals and collaborate on exciting projects.
+
+• Reach out to me at ehteshamnaveed199@gmail.com for collaborations or discussions.
