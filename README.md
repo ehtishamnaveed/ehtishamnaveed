@@ -15,4 +15,4 @@
 
 • Eager to connect with like-minded individuals and collaborate on exciting projects.
 
-• Reach out to me at ehteshamnaveed199@gmail.com for collaborations or discussions.
+• Reach out to me at ehtishamnaveed10@gmail.com for collaborations or discussions.
