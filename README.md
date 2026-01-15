@@ -1,13 +1,5 @@
 ## Brief Introduction
-• Greetings, I'm Ehtesham Naveed, a recent Information Technology graduate and enthusiastic programmer.
-
-• Holding a Bachelor's degree in Information Technology, I’m passionate about IT and coding.
-
-• Strong experience in programming languages: C++, Java, and intermediate Python.
-
-• Complementing my tech skills, I enjoy creative pursuits like graphic designing, writing poems, and curating quotes.
-
-• Tech-savvy with a flair for creativity, I love exploring the synergy between technology and arts.
+Skilled WordPress Developer with expertise in building custom, high-performance websites and WooCommerce stores, including PayPal and Stripe integration. Experienced in developing online management systems and delivering responsive, secure, and scalable solutions tailored to client needs. Focused on precision, user experience, and delivering high-quality web development.
 
 • Proudly showcasing my work:
 
